@@ -8,15 +8,12 @@
   }
   
   .container {
-    background-color: white;
-    width: 70%;
-    margin: auto;
-    min-height: 100vh;
-    padding: 30px;
-    box-sizing: border-box;
-    background:url("https://i.pinimg.com/736x/c7/ea/4c/c7ea4c1df6bd203cd06d58a77dd31a25.jpg") no-repeat;
-    background-size: 100%;
-    
+  background-color: rgb(255, 236, 226);
+  width: 70%;
+  margin: auto;
+  min-height: 100vh;
+  padding: 4vmax 8vmax;
+  box-sizing: border-box;  
 }
 
 h1 {
